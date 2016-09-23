@@ -1,0 +1,16 @@
+D:\Projects\GitHub\Vimeo\Media-Framework-Vimeo-Edition\src\bin\Debug\Sitecore.MediaFramework.Vimeo.dll
+D:\Projects\GitHub\Vimeo\Media-Framework-Vimeo-Edition\src\bin\Debug\Sitecore.MediaFramework.Vimeo.pdb
+D:\Projects\GitHub\Vimeo\Media-Framework-Vimeo-Edition\src\obj\Debug\Sitecore.MediaFramework.Vimeo.csprojResolveAssemblyReference.cache
+D:\Projects\GitHub\Vimeo\Media-Framework-Vimeo-Edition\src\obj\Debug\Sitecore.MediaFramework.Vimeo.dll
+D:\Projects\GitHub\Vimeo\Media-Framework-Vimeo-Edition\src\obj\Debug\Sitecore.MediaFramework.Vimeo.pdb
+D:\Projects\GitHub\Vimeo\Media-Framework-Vimeo-Edition\src\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\GitHub\Vimeo\Media-Framework-Vimeo-Edition\src\bin\Debug\RestSharp.dll
+D:\Projects\GitHub\Vimeo\Media-Framework-Vimeo-Edition\src\bin\Debug\Sitecore.ContentSearch.dll
+D:\Projects\GitHub\Vimeo\Media-Framework-Vimeo-Edition\src\bin\Debug\Sitecore.ContentSearch.Linq.dll
+D:\Projects\GitHub\Vimeo\Media-Framework-Vimeo-Edition\src\bin\Debug\Sitecore.Integration.Common.dll
+D:\Projects\GitHub\Vimeo\Media-Framework-Vimeo-Edition\src\bin\Debug\Sitecore.Kernel.dll
+D:\Projects\GitHub\Vimeo\Media-Framework-Vimeo-Edition\src\bin\Debug\Sitecore.Logging.dll
+D:\Projects\GitHub\Vimeo\Media-Framework-Vimeo-Edition\src\bin\Debug\Sitecore.MediaFramework.dll
+D:\Projects\GitHub\Vimeo\Media-Framework-Vimeo-Edition\src\bin\Debug\Sitecore.RestSharp.dll
+D:\Projects\GitHub\Vimeo\Media-Framework-Vimeo-Edition\src\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\GitHub\Vimeo\Media-Framework-Vimeo-Edition\src\bin\Debug\RestSharp.xml

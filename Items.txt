@@ -1,0 +1,31 @@
+Items:
+
+/sitecore/templates/MediaFramework/Vimeo/*
+/sitecore/system/Settings/Rules/Insert Options/Rules/MediaFramework Vimeo
+/sitecore/system/Settings/Rules/Command Rules/Rules/Import Vimeo Command State
+/sitecore/templates/Branches/Media Framework/Vimeo Account
+/sitecore/templates/Branches/Media Framework/Vimeo Account/*
+/sitecore/templates/Branches/Media Framework/Vimeo Video
+/sitecore/templates/MediaFramework/Vimeo/VimeoAccountSettings/*
+/sitecore/system/Modules/Media Framework/Settings/Vimeo Default Settings
+
+
+
+
+Core:
+/sitecore/content/Applications/Content Editor/Menues/Media Framework/Manual Import/Vimeo
+/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Media Framework/Import Content/Vimeo Import All
+
+
+
+
+
+
+Files:
+
+
+
+Token:
+59cbc229ebfef8f0d9cc15f46453498b
+
+7ff7a35e4a55449ea3ea6796e6fc5722
